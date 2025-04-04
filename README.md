@@ -45,14 +45,10 @@ No external libraries are required beyond the Python standard library.
    python main.py <path_to_graph_file>
 Example:
 
-bash
-Copy
 python main.py tests/1.graph
 Input Format
 The input file should list one edge per line with two space-separated integers:
 
-css
-Copy
 src dst
 Output
 
