@@ -78,4 +78,4 @@ Additional Metrics: Incorporate more sophisticated heuristics or metrics for dif
 
 
 Acknowledgments
-This implementation is inspired by the paper *Fast Unfolding of Communities in Large Networks* and extends it by adding a regularization term to balance modularity maximization and reproducing the codes.
+This implementation is inspired by the paper [Fast Unfolding of Communities in Large Networks](https://arxiv.org/abs/0803.0476) and extends it by adding a regularization term to balance modularity maximization and reproducing the codes.
